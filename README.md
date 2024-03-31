@@ -1,7 +1,7 @@
-# Movie-booking-system-MERN
-a complete movie booking system with functionalities for user &amp; admin.
+# Bookmyevent
+a complete event booking app with functionalities for user & admin.
 
-The Movie Booking System, built on the MERN stack, offers a seamless experience for users to easily book their favorite movies. Users can make movie bookings. Admin privileges to add, delete, and manage website content, ensuring a dynamic and up-to-date platform. Additionally, authors have the capability to contribute by adding new movies.
+The Bookmyevent, built on the MERN stack, offers a seamless experience for users to easily book their favorite events. Users can make events bookings. Admin privileges to add, delete, and manage website content, ensuring a dynamic and up-to-date platform. Additionally, authors have the capability to contribute by adding new events.
 
 dependencies used - 
 
